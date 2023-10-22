@@ -131,8 +131,10 @@ The site contains all necessary features of a simple, functioning website.
 
     Index.html
     <img src="https://github.com/GKopanidis/love-running-project/assets/145017421/5004d992-b7c7-4d3f-af52-f5cfd00e905d" width="200" height="200">.
+
     Gallery.html
     <img src="https://github.com/GKopanidis/love-running-project/assets/145017421/0ffd795b-0b44-4a4d-b6e0-d349262f868d" width="200" height="200">.
+
     Signup.html
     <img src="https://github.com/GKopanidis/love-running-project/assets/145017421/24edb3e2-1d6d-4e2c-9c38-a6281a75e564" width="200" height="200">.
 
