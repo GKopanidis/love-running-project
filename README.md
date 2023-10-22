@@ -27,9 +27,9 @@ Link to [live site](https://gkopanidis.github.io/love-running-project/index.html
 - [Deployment](#deployment)
 
 - [Credits](#credits)
-    - [Media](#media)
-    - [Code](#code)
+    - [Credits](#credits)
     - [Content](#content)
+    - [Media](#media)
  
 <!-- TOC --><a name="overview"></a>
 ## Overview
