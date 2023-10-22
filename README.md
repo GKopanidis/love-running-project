@@ -6,23 +6,18 @@ Link to [live site](https://gkopanidis.github.io/love-running-project/index.html
 
 ## Index - Table of Contents
 
-- [Overview](##overview)
+- [Overview](#overview)
     - [Wireframes](#wireframes)
     - [Font and Colours](#font-and-colour-choices)
 
 - [Features](#features)
     - [Existing Features](#existing-features)
-    - [Future Features](#possible-future-features)
 
-- [UX](#ux)
-    - [Site Goals](#site-goals)
-    - [User Stories](#user-stories)
+- [Features Left to Implement](#features-left-to-implement)
 
 - [Testing](#testing)
     - [Validator Testing](#validator-testing)
-    - [Browser Testing](#browser-testing)
-    - [Manual Testing](#manual-testing)
-    - [Testing User Stories](#testing-user-stories)
+    - [Browser Testing](#tested-browsers)
     - [Fixed Bugs](#fixed-bugs)
     - [Unfixed Bugs](#unfixed-bugs)
 
@@ -39,9 +34,21 @@ The Love Running Project is a website dedicated to all things running. Whether y
 
 ![image](https://github.com/GKopanidis/love-running-project/assets/145017421/d7fc7c75-a24a-43a1-9308-7d004169e008)
 
+## Wireframes
+
+The first [wireframes in Balsamiq](https://www.balsamiq.com) show a very simple layout of the most essential features, aiming for a minimum viable product.
+
+![Wireframes](https://github.com/GKopanidis/love-running-project/assets/145017421/0d1ddae3-1da3-42d3-882a-314250027e3a)
+
+### Font and Colour choices
+
+**Fonts:** The Fonts used: Oswald and Lato
+
+**Colours:** Colours used: #3B3B3B and #252525
+
 ## Features 
 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
+The site contains all necessary features of a simple, functioning website.
 
 ### Existing Features
 
@@ -100,20 +107,15 @@ In this section, you should go over the different parts of your project, and des
 
 ![SignUp](https://github.com/GKopanidis/love-running-project/assets/145017421/481de6ff-790a-431b-bfc9-57f3e40d5510)
 
-
-For some/all of your features, you may choose to reference the specific project files that implement them.
-
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
-
 ### Features Left to Implement
 
-- Another feature idea
+- Add [Google Maps](https://maps.google.com)
 
 ## Testing 
 
 ### Validator Testing 
 
-- ![HTM
+- HTML ([W3C validator](https://validator.w3.org/))
   - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html)
 
     Index.html
@@ -121,14 +123,19 @@ In addition, you may also use this section to discuss plans for additional featu
     Gallery.html
     <img src="https://github.com/GKopanidis/love-running-project/assets/145017421/0ffd795b-0b44-4a4d-b6e0-d349262f868d" width="200" height="200">.
     Signup.html
-    <img src="https://github.com/GKopanidis/love-running-project/assets/145017421/24edb3e2-1d6d-4e2c-9c38-a6281a75e564 =250x250" width="200" height="200">.
+    <img src="https://github.com/GKopanidis/love-running-project/assets/145017421/24edb3e2-1d6d-4e2c-9c38-a6281a75e564" width="200" height="200">.
 
-- CSS
+- CSS ([Jigsaw](https://jigsaw.w3.org/css-validator/))
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
     
     CSS Stylesheet
     <img src="https://github.com/GKopanidis/love-running-project/assets/145017421/b0163468-a9e2-41ce-8899-06051193c5c3" width="200" height="200">.
 
+- Performance, Accessibility, SEO, Best Practices (Lighthouse Chrome DevTools)
+
+  Lighthouse rating
+  <img src="https://github.com/GKopanidis/love-running-project/assets/145017421/d1ece819-d197-4506-8dce-dcead5a4912d" width="50%" height="50%">.
+ 
 - Tested Browser:
   
     <table>
@@ -168,6 +175,13 @@ In addition, you may also use this section to discuss plans for additional featu
       </tbody>
     </table>
 
+### Fixed Bugs
+
+- Added indentifying heading to all sections
+
+  Missing h2 element
+    <img src="https://github.com/GKopanidis/love-running-project/assets/145017421/6df66ab3-77dc-4e5c-8b00-0ef4138c6575" width="50%" height="50%">.
+
 ### Unfixed Bugs
 
 No bugs found at this time.
@@ -182,10 +196,6 @@ No bugs found at this time.
 [The live link can be found here](https://gkopanidis.github.io/love-running-project/index.html "My Love Running Project")
 
 ## Credits 
-
-In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism. 
-
-You can break the credits section up into Content and Media, depending on what you have included in your project. 
 
 ### Content 
 
