@@ -6,7 +6,7 @@ Welcome to the Love Running Project website!
 
 Link to [live site](https://gkopanidis.github.io/love-running-project/index.html)
 
-![AUR last modified](https://img.shields.io/aur/last-modified/:packageName)
+![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/GKopanidis/love-running-project)
 
 <!-- TOC --><a name="-index-table-of-contents"></a>
 ## * [Index - Table of Contents](#index---table-of-contents)
