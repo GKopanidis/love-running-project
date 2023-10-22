@@ -2,9 +2,12 @@
 
 Welcome to the Love Running Project website!
 
+![image](https://github.com/GKopanidis/love-running-project/assets/145017421/d7fc7c75-a24a-43a1-9308-7d004169e008)
+
 Link to [live site](https://gkopanidis.github.io/love-running-project/index.html)
 
-## Index - Table of Contents
+<!-- TOC --><a name="-index-table-of-contents"></a>
+## * [Index - Table of Contents](#index---table-of-contents)
 
 - [Overview](#overview)
     - [Wireframes](#wireframes)
@@ -27,29 +30,32 @@ Link to [live site](https://gkopanidis.github.io/love-running-project/index.html
     - [Media](#media)
     - [Code](#code)
     - [Content](#content)
-
+ 
+<!-- TOC --><a name="overview"></a>
 ## Overview
 
 The Love Running Project is a website dedicated to all things running. Whether you're an experienced marathoner or just starting your running journey, this site is designed to provide you with valuable information, resources, and inspiration to enhance your running experience.
 
-![image](https://github.com/GKopanidis/love-running-project/assets/145017421/d7fc7c75-a24a-43a1-9308-7d004169e008)
-
+<!-- TOC --><a name="wireframes"></a>
 ## Wireframes
 
 The first [wireframes in Balsamiq](https://www.balsamiq.com) show a very simple layout of the most essential features, aiming for a minimum viable product.
 
 ![Wireframes](https://github.com/GKopanidis/love-running-project/assets/145017421/0d1ddae3-1da3-42d3-882a-314250027e3a)
 
+<!-- TOC --><a name="font-and-colour-choices"></a>
 ### Font and Colour choices
 
 **Fonts:** The Fonts used: Oswald and Lato
 
 **Colours:** Colours used: #3B3B3B and #252525
 
+<!-- TOC --><a name="features"></a>
 ## Features 
 
 The site contains all necessary features of a simple, functioning website.
 
+<!-- TOC --><a name="existing-features"></a>
 ### Existing Features
 
 - __Navigation Bar__
@@ -107,12 +113,15 @@ The site contains all necessary features of a simple, functioning website.
 
 ![SignUp](https://github.com/GKopanidis/love-running-project/assets/145017421/481de6ff-790a-431b-bfc9-57f3e40d5510)
 
+<!-- TOC --><a name="features-left-to-implement"></a>
 ### Features Left to Implement
 
 - Add [Google Maps](https://maps.google.com)
 
+<!-- TOC --><a name="testing"></a>
 ## Testing 
 
+<!-- TOC --><a name="validator-testing"></a>
 ### Validator Testing 
 
 - HTML ([W3C validator](https://validator.w3.org/))
@@ -175,6 +184,7 @@ The site contains all necessary features of a simple, functioning website.
       </tbody>
     </table>
 
+<!-- TOC --><a name="fixed-bugs"></a>
 ### Fixed Bugs
 
 - Added indentifying heading to all sections
@@ -182,10 +192,12 @@ The site contains all necessary features of a simple, functioning website.
   Missing h2 element
     <img src="https://github.com/GKopanidis/love-running-project/assets/145017421/6df66ab3-77dc-4e5c-8b00-0ef4138c6575" width="50%" height="50%">.
 
+<!-- TOC --><a name="unfixed-bugs"></a>
 ### Unfixed Bugs
 
 No bugs found at this time.
 
+<!-- TOC --><a name="deployment"></a>
 ## Deployment
 
 - The site was deployed to GitHub pages. The steps to deploy are as follows: 
@@ -195,8 +207,10 @@ No bugs found at this time.
 
 [The live link can be found here](https://gkopanidis.github.io/love-running-project/index.html "My Love Running Project")
 
+<!-- TOC --><a name="credits"></a>
 ## Credits 
 
+<!-- TOC --><a name="content"></a>
 ### Content 
 
 - The text for the Home page was taken from [CodeInstitute](https://www.codeinstitute.com)
@@ -204,6 +218,7 @@ No bugs found at this time.
 - Instructions on how to implement form validation on the Sign Up page was taken from [Code Institute Tutorial](https://www.codeinstitute.com/)
 - The icons in the header and footer were taken from [Font Awesome](https://fontawesome.com/)
 
+<!-- TOC --><a name="media"></a>
 ### Media
 
 - The photos used on the home and sign up page are from [CodeInstitute](https://www.codeinstitute.com)
