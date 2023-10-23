@@ -199,7 +199,8 @@ The site contains all necessary features of a simple, functioning website.
 - Added indentifying heading to all sections
 
   Missing h2 element
-    <img src="https://github.com/GKopanidis/love-running-project/assets/145017421/6df66ab3-77dc-4e5c-8b00-0ef4138c6575" width="50%" height="50%">.
+
+  <img src="https://github.com/GKopanidis/love-running-project/assets/145017421/6df66ab3-77dc-4e5c-8b00-0ef4138c6575" width="50%" height="50%">.
 
 <!-- TOC --><a name="unfixed-bugs"></a>
 ### Unfixed Bugs
