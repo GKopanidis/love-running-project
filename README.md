@@ -145,6 +145,7 @@ The site contains all necessary features of a simple, functioning website.
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
     
     CSS Stylesheet
+
     <img src="https://github.com/GKopanidis/love-running-project/assets/145017421/b0163468-a9e2-41ce-8899-06051193c5c3" width="200" height="200">.
 
 - Performance, Accessibility, SEO, Best Practices (Lighthouse Chrome DevTools)
