@@ -217,13 +217,13 @@ No bugs found at this time.
 <!-- TOC --><a name="content"></a>
 ### Content 
 
-- The text for the Home page was taken from [CodeInstitute](https://www.codeinstitute.com)
+- The text for the Home page was taken from [CodeInstitute](https://www.codeinstitute.net)
 - The Fonts "Oswald" and "Lato" [Google Fonts](https://fonts.google.com)
-- Instructions on how to implement form validation on the Sign Up page was taken from [Code Institute Tutorial](https://www.codeinstitute.com/)
+- Instructions on how to implement form validation on the Sign Up page was taken from [Code Institute Tutorial](https://www.codeinstitute.net/)
 - The icons in the header and footer were taken from [Font Awesome](https://fontawesome.com/)
 
 <!-- TOC --><a name="media"></a>
 ### Media
 
-- The photos used on the home and sign up page are from [CodeInstitute](https://www.codeinstitute.com)
-- The images used for the gallery page were taken from [CodeInstitute](https://www.codeinstitute.com)
+- The photos used on the home and sign up page are from [CodeInstitute](https://www.codeinstitute.net)
+- The images used for the gallery page were taken from [CodeInstitute](https://www.codeinstitute.net)
