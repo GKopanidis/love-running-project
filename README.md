@@ -151,6 +151,7 @@ The site contains all necessary features of a simple, functioning website.
 - Performance, Accessibility, SEO, Best Practices (Lighthouse Chrome DevTools)
 
   Lighthouse rating
+
   <img src="https://github.com/GKopanidis/love-running-project/assets/145017421/d1ece819-d197-4506-8dce-dcead5a4912d" width="50%" height="50%">.
  
 - Tested Browser:
