@@ -23,6 +23,7 @@ Link to [live site](https://gkopanidis.github.io/love-running-project/index.html
 - [Testing](#testing)
     - [Validator Testing](#validator-testing)
     - [Browser Testing](#tested-browsers)
+    - [Manual Testing](#manual-testing)
     - [Fixed Bugs](#fixed-bugs)
     - [Unfixed Bugs](#unfixed-bugs)
 
@@ -74,7 +75,6 @@ The site contains all necessary features of a simple, functioning website.
   - This section introduces the user to Love Running with an eye catching animation to grab their attention
 
 ![Landing Page](https://github.com/GKopanidis/love-running-project/assets/145017421/9e881377-27ec-4fc3-9d36-e918486d422e)
-
 
 
 - __Club Ethos Section__
@@ -192,6 +192,16 @@ The site contains all necessary features of a simple, functioning website.
         </tr>
       </tbody>
     </table>
+
+<!-- TOC --><a name="manual-testing"></a>
+### Manual Testing
+
+| Feature     | Expect      | Action        | Result |
+| :---------: | :----------:| :-----------: | :-----:|
+| **Links icons**  | Links open relevant websites in actual tab when clicked | Click all individual links | All respective sites open in active tab |
+| **Social link icons** | Social link icons open relevant websites in new tab when clicked| Click all individual icons | All respective sites open in new tab |
+| **Sign Up Page**  | When entering a first name, last name, email address and select one option (radio buttons) the congratulations page appears. | Enter all fields and press "Let's run! | Congratulations page appears and displays the entered fields |
+| **Sign Up Page missing fields**  | When not entering a first name, last name or email address, which is not correct formatted, then an error appears. | Enter correct format into fields and press "Let's run! | Congratulations page appears and displays the entered fields |
 
 <!-- TOC --><a name="fixed-bugs"></a>
 ### Fixed Bugs
