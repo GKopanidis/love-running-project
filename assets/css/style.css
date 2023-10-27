@@ -133,12 +133,8 @@ main {
     font-size: 280%;
 }
 
-<<<<<<< HEAD
 #benefits-physical > div,
 #benefits-mental > div {
-=======
-#benefits-physical > div, #benefits-mental > div {
->>>>>>> 8c5c43b (Bugfix)
     line-height: 20px;
     margin-bottom: 20px;
 }
@@ -150,7 +146,6 @@ main {
 #benefits hr {
     border-top: 1px solid #3a3a3a;
     margin: 5px 0;
-<<<<<<< HEAD
 }
 
 #circle-cover-bg {
@@ -250,8 +245,6 @@ main {
     font-size: 100%;
     background-color: #454b1b;
     color: #fafafa;
-=======
->>>>>>> 8c5c43b (Bugfix)
 }
 
 #circle-cover-bg {
@@ -286,7 +279,6 @@ main {
     color: #3a3a3a;
 }
 
-<<<<<<< HEAD
 /* Media query: large or landscape phones (576px and up) */
 @media screen and (min-width: 576px) {
     #photos {
@@ -295,8 +287,6 @@ main {
     }
 }
 
-=======
->>>>>>> 8c5c43b (Bugfix)
 /* Media query: tablets and larger (768px and up) */
 @media screen and (min-width: 768px) {
 
@@ -338,7 +328,6 @@ main {
         width: 300px;
         right: 50px;
     }
-<<<<<<< HEAD
 
     /* Reasons section */
     #benefits-physical,
@@ -381,8 +370,6 @@ main {
         background-color: #fafafa;
         color: #454b1b;
     }
-=======
->>>>>>> 8c5c43b (Bugfix)
 }
 
     /* Reasons section */
@@ -408,7 +395,6 @@ main {
     #menu a:hover {
         border-bottom: 1px solid #3a3a3a;
     }
-<<<<<<< HEAD
     /* Gallery */
     #photos {
         column-count: 4;
@@ -417,31 +403,17 @@ main {
 
 /* Large devices (laptops and desktops, 1200px and up) */
 @media screen and (min-width: 1200px) {
-=======
-}
-
-@media screen and (min-width: 1200px) {    
-    /* Reasons section */
->>>>>>> 8c5c43b (Bugfix)
     #benefits {
         display: flex;
         flex-direction: row;
     }
-<<<<<<< HEAD
     
-=======
-
->>>>>>> 8c5c43b (Bugfix)
     #benefits > div {
         flex: 1;
     }
 
     #benefits-image {
-<<<<<<< HEAD
         order: 0;
-=======
-        order: 0
->>>>>>> 8c5c43b (Bugfix)
     }
 
     #benefits-mental {
